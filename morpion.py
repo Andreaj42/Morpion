@@ -12,7 +12,7 @@ class Jeu:
                         bg="White")
         canvas.pack()
         boutonIA = Button(self.window,
-                          text="Jouer contre Jeremy (dans un futur proche)",
+                          text="Jouer contre une IA (not working)",
                           width=45,
                           height=3)
         Boutonseul = Button(self.window,
