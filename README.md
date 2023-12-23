@@ -1,6 +1,5 @@
 # Morpion
-Do you know the famous game Tic-Tac-Toe ? \
-This repository contains this game made with python and heart in three hours.
+This repository contains Tic-Tac-Toe game made with python in three hours.
 
 ## Setup and start
 * `git clone https://github.com/Andreaj42/Morpion.git`
